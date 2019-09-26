@@ -27,7 +27,7 @@ public class Student {
 			System.out.println(studentName+"학생의 "+subject.getName()+
 							   "과목의 성적은"+subject.getScore()+"점입니다.");
 			
-			}
+		}
 		System.out.println(studentName+"학생의 총점은"+total+"점입니다.");
 		}
 	}
