@@ -10,7 +10,6 @@ public class Student {
 	public Student(int studentID,String studentName) {
 		this.studentID=studentID;
 		this.studentName=studentName;
-		
 		subjectList = new ArrayList<Subject>();
 	}
 	
