@@ -14,7 +14,7 @@ public class Customer {
 		
 		customerGrade="SILVER";
 		bonusRatio = 0.01;
-		
+		 
 	}
 	
 	public int calcPrice(int price) {
